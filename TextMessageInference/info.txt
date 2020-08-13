@@ -1,0 +1,3 @@
+The data used in this folder is taken from C. Davidson-Pilon's book "Bayesian Methods for Hackers".
+I have read this book, but the code that I have written was done so without guidance from the book.
+Furthermore, I added the additional complexity of the 2 poisson parameters being exponentially distributed with different rate parameters - this is avoided in Davidson-Pilon's exposition.
