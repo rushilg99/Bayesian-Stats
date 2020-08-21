@@ -1,5 +1,0 @@
-The data used in this folder is taken from C. Davidson-Pilon's book "Bayesian Methods for Hackers".
-I have read this book, but the code that I have written has been done without guidance from Davidson-Pilon's book.
-I added the additional complexity of the 2 poisson parameters being exponentially distributed with different rate parameters - this is avoided in Davidson-Pilon's exposition.
-In the referenced book, he leaves a couple of questions without solutions regarding using the posterior samples to answer questions about the model. I answer these.
-Furthermore, I have expanded and performed a slightly more rigorous analysis of the posterior distributions for the lambda1 and lambda2 Poisson parameters.
